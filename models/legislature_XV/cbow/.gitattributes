@@ -1,0 +1,1 @@
+w2v_cbow_300D filter=lfs diff=lfs merge=lfs -text
