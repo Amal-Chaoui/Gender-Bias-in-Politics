@@ -1,0 +1,4 @@
+w2v_sg_300D filter=lfs diff=lfs merge=lfs -text
+w2v_sg_300D.trainables.syn1.npy filter=lfs diff=lfs merge=lfs -text
+w2v_sg_300D.trainables.syn1neg.npy filter=lfs diff=lfs merge=lfs -text
+w2v_sg_300D.wv.vectors.npy filter=lfs diff=lfs merge=lfs -text
